@@ -4,6 +4,8 @@ Layar Home Android yang terasa seperti desktop Linux 🐧 Ada panel atas, dock, 
 
 Versi **1.0.0**, 15 November 2026. Diuji di Infinix HOT 60 5G dengan Android 15. Versi sebelumnya juga diuji di Waydroid (Android 13).
 
+[Unduh APK](https://sourceforge.net/projects/lx-launcher/files/latest/download) · [Halaman SourceForge](https://sourceforge.net/projects/lx-launcher/)
+
 ## Lihat dulu 👀
 
 <table>
@@ -105,7 +107,7 @@ Tata letak bisa disimpan ke berkas dan dipulihkan di perangkat lain.
 
 ## Memasang
 
-1. Pasang `lx-launcher-1.0.0-debug.apk` (izinkan pemasangan dari sumber ini kalau Android memintanya), atau lewat ADB: `adb install lx-launcher-1.0.0-debug.apk`.
+1. Unduh `lx-launcher-1.0.0-debug.apk` dan `SHA256SUMS` dari [folder v1.0.0 di SourceForge](https://sourceforge.net/projects/lx-launcher/files/v1.0.0/). Pasang APK-nya (izinkan pemasangan dari sumber ini kalau Android memintanya), atau lewat ADB: `adb install lx-launcher-1.0.0-debug.apk`.
 2. Buka LX-LAUNCHER dari daftar aplikasi.
 3. Di jendela Selamat datang, ketuk "Jadikan LX-LAUNCHER aplikasi Home", lalu setujui di dialog Android.
 
