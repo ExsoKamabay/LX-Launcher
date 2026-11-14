@@ -1,3 +1,22 @@
+.gradle/
+build/
+app/build/
+app/.cxx/
+local.properties
+*.keystore
+*.jks
+.idea/
+*.iml
+.taste-skill/
+.impeccable/
+
+# The test phone's serial, kept on this machine only
+scripts/device/.serial
+
+# Python
+__pycache__/
+*.pyc
+
 # Prerequisites
 *.d
 
@@ -66,3 +85,6 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Prebuilt BusyBox that the terminal ships with
+!third_party/dracxterm/jniLibs/**/*.so
